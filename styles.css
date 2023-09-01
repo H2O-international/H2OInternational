@@ -1,0 +1,11 @@
+@media screen and (max-width: 768px) {
+  /* Responsive styles for smaller screens */
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  /* Responsive styles for medium screens */
+}
+
+@media screen and (min-width: 1025px) {
+  /* Responsive styles for large screens */
+}
